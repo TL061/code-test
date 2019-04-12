@@ -1,4 +1,5 @@
 # Question 3
+# Time: 35mins
 
 # N: an interger indicating a certain amount (N)
 # denominations: a list of denominations
