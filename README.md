@@ -24,3 +24,7 @@ Given a number of coins with different denominations, e.g. [1, 2, 5] and test if
 For example,
 if coins = [1, 2, 5] and N = 11, return true
 if coins = [3, 77] and N = 100, return false
+
+Solutions: 
+
+1 py file for each question. 
